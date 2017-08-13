@@ -1,6 +1,7 @@
 import media
 import fresh_tomatoes
 
+# create video classes (Movies, Tv)
 toy_story = media.Movie("Toy Story",
                         "G",
                         "http://www.gstatic.com/tv/thumb/" +
@@ -56,8 +57,9 @@ stranger_things = media.Tv("Stranger Things",
                            "2",
                            "Netflix")
 
-
+# create an array that icludes the created class instances
 videos = [the_last_samurai, stranger_things, the_shack, finding_nemo,
           kingdom_of_heaven, pearl_harbor, toy_story]
 
+# call open_movies_page method and pass videos array as an arguement
 fresh_tomatoes.open_movies_page(videos)
