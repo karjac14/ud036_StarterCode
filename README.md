@@ -11,17 +11,18 @@ These instructions will get you a copy of the project up and running on your loc
 [Python](https://www.python.org/) - Tested on ver. 2.7.9
 
 
-### Installing
-
-
 ## Running the Script
 
-Run `entertainment_center.py`
+On terminal, run:  
+
+````
+python entertainment_center.py
+````
 
 
 ## Contributing
 
-Please fork this forked repo, and make PR.
+Please fork this forked repo, and make a PR.
 
 
 ## Acknowledgments
