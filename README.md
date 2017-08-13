@@ -1,6 +1,6 @@
 # Movie List +
 
-This project creates a list of movies and show its trailers on a web browser.
+This project creates a list of movies and TV shows that can show it details and trailers on a web browser.
 
 ## Getting Started
 
@@ -14,11 +14,9 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 
 
-
 ## Running the Script
 
-
-## Built With
+Run `entertainment_center.py`
 
 
 ## Contributing

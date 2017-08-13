@@ -29,10 +29,10 @@ the_shack = media.Movie("The Shack",
 stranger_things = media.Tv("Stranger Things",
                         "PG-7",
                         "http://static.rogerebert.com/redactor_assets/pictures/5786d08996d833f89c000039/stranger_things_poster.jpg",
-                        "https://www.youtube.com/watch?v=vgS2L7WPIO4", "2", "Netflix")
+                        "https://www.youtube.com/watch?v=CL0yUbSS5Eg", "2", "Netflix")
 
 
-movies = [the_last_samurai, stranger_things, the_shack, finding_nemo,
+videos = [the_last_samurai, stranger_things, the_shack, finding_nemo,
           kingdom_of_heaven, pearl_harbor, toy_story]
 
-fresh_tomatoes.open_movies_page(movies)
+fresh_tomatoes.open_movies_page(videos)
